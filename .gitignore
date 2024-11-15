@@ -1,0 +1,4 @@
+datas/db/all.db
+.venv/*
+build
+dist
